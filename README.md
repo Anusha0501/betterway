@@ -1,7 +1,7 @@
 
 # Mini E-Commerce React App
 
-A simple mini e-commerce application built using **React (functional components)** as part of an assignment.  
+A simple mini e-commerce application built using **React (functional components)**.  
 The focus of this project is **clean component design, state management, and correctness**, rather than UI libraries or backend integration.
 
 ---
