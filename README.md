@@ -1,6 +1,6 @@
 # Mini E-Commerce App
 
-A simple React-based mini e-commerce application built as an assignment.
+A simple React-based mini e-commerce application.
 
 ## Features
 - Product listing with stock status
