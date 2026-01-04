@@ -101,6 +101,19 @@ src/
 
 ---
 
+---
+
+## 🔮 Future Enhancements
+
+The following features can be added to extend the application further:
+
+- Cart persistence using localStorage
+- API-based product fetching
+- Debounced search
+- Product detail view
+- Improved accessibility and responsiveness
+- Basic component testing
+
 ## 👤 Author
 
 **Anusha Singh**
